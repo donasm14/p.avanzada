@@ -1,0 +1,7 @@
+Comandos a escribir en shell:
+
+nuevo nombre=,rac1,rac2,rac3,
+siendo racn de la forma n/d
+
+suma a+b,
+siendo a y b objetos de la clase polinomio

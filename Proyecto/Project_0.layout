@@ -1,0 +1,41 @@
+[Editors]
+Order=1,0
+Focused=0
+[Editor_0]
+<<<<<<< HEAD
+CursorCol=5
+CursorRow=118
+TopLine=143
+=======
+CursorCol=2
+CursorRow=41
+TopLine=20
+>>>>>>> 4ca19ff3069e52fe3887685faa8ce6477c94734c
+LeftChar=1
+Open=1
+Top=0
+[Editor_1]
+<<<<<<< HEAD
+CursorCol=24
+CursorRow=12
+TopLine=564
+=======
+CursorCol=8
+CursorRow=89
+TopLine=72
+>>>>>>> 4ca19ff3069e52fe3887685faa8ce6477c94734c
+LeftChar=1
+Open=1
+Top=0
+[Editor_2]
+Open=1
+Top=0
+CursorCol=2
+CursorRow=308
+TopLine=353
+LeftChar=1
+[Editor_3]
+CursorCol=3
+CursorRow=44
+TopLine=28
+LeftChar=1
